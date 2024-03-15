@@ -7,6 +7,7 @@ BCPシステム
 
 ## ③DEMO
 <img width="452" alt="スクリーンショット 2024-03-15 8 54 10" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/a76abc3d-98ce-49d2-a710-5b1e8ac32a78">
+<img width="395" alt="スクリーンショット 2024-03-16 5 43 14" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/d9a7930b-6f2e-48cb-8ad9-6ccc66165fd9">
 
 ## ④工夫した点・こだわった点
 -セキュリティキーを発行
