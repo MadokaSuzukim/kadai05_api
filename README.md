@@ -6,6 +6,7 @@ BCPシステム
 -訪問看護事業所のBCPを稼働するのに、安否確認をする上で位置情報の取得と、スタッフ、利用者間でチャットや連絡網で連絡体制があると視覚的に訴えられる
 
 ## ③DEMO
+https://madokasuzukim.github.io/kadai05_api/
 <img width="452" alt="スクリーンショット 2024-03-15 8 54 10" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/a76abc3d-98ce-49d2-a710-5b1e8ac32a78">
 <img width="395" alt="スクリーンショット 2024-03-16 5 43 14" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/d9a7930b-6f2e-48cb-8ad9-6ccc66165fd9">
 
@@ -18,6 +19,7 @@ zukim/kadai05_api/assets/158795547/67818cb4-20e9-4502-8c38-6dc22893cc23">
 
 ## ④難しかった点・次回トライしたいこと(又は機能)
 -一斉にログインした際の検証をしたい
+まだ未完　提出後に再度やりたいことの実装できるように努めます！
 -
 
 ## ⑤質問・疑問・感想、シェアしたいこと等なんでも
