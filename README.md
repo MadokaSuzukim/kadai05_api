@@ -7,16 +7,14 @@ BCPシステム
 
 ## ③DEMO
 https://madokasuzukim.github.io/kadai05_api/
-<img width="452" alt="スクリーンショット 2024-03-15 8 54 10" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/a76abc3d-98ce-49d2-a710-5b1e8ac32a78">
-<img width="395" alt="スクリーンショット 2024-03-16 5 43 14" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/d9a7930b-6f2e-48cb-8ad9-6ccc66165fd9">
 <img width="796" alt="スクリーンショット 2024-03-16 8 22 04" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/f01c449d-cfea-4e5f-8300-52b9c97bec96">
 <img width="795" alt="スクリーンショット 2024-03-16 8 23 07" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/cefffb33-6c13-4bce-8197-e40042b2fff5">
 
 ## ④工夫した点・こだわった点
 -セキュリティキーを発行
 -メールアドレス認証にて外部からのログインを防ぐ
-<img width="796" alt="スクリーンショット 2024-03-16 8 22 04" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/a4dcbf2d-d018-4028-a1f3-910a50b24402">
-
+<img width="452" alt="スクリーンショット 2024-03-15 8 54 10" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/a76abc3d-98ce-49d2-a710-5b1e8ac32a78">
+<img width="395" alt="スクリーンショット 2024-03-16 5 43 14" 
 ## ④難しかった点・次回トライしたいこと(又は機能)
 -一斉にログインした際の検証をしたい
 まだ未完　提出後に再度やりたいことの実装できるように努めます！
