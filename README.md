@@ -14,7 +14,8 @@ https://madokasuzukim.github.io/kadai05_api/
 -セキュリティキーを発行
 -メールアドレス認証にて外部からのログインを防ぐ
 <img width="452" alt="スクリーンショット 2024-03-15 8 54 10" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/a76abc3d-98ce-49d2-a710-5b1e8ac32a78">
-<img width="395" alt="スクリーンショット 2024-03-16 5 43 14" 
+<img width="1470" alt="スクリーンショット 2024-03-14 19 29 19" src="https://github.com/MadokaSuzukim/kadai05_api/assets/158795547/0cfd6cdf-3f1c-43c1-bb1a-2b06377636c5">
+
 ## ④難しかった点・次回トライしたいこと(又は機能)
 -一斉にログインした際の検証をしたい
 まだ未完　提出後に再度やりたいことの実装できるように努めます！
